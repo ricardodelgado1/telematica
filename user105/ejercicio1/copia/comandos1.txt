@@ -1,0 +1,17 @@
+comandos y la descripcion de cada uno de ellos:
+
+date : muestra la hora y fecga del sistema
+
+cd : permite moverse entre directorios del sistema
+
+ls : permite ver los archivos y directorios que tenemos en el directorio donde nos encontramos
+
+pwd : permite imprimir el nombre del directorio actual donde se encuentra
+
+clear : permite limpiar la pantalla de la consola
+
+mkdir : permite crear un directorio o arbol de directorios
+
+rm : permite eliminar archivos y directorios en el sistema
+
+sudo : permite poder tener permisos de superusuario

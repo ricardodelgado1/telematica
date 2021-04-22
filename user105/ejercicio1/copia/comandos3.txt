@@ -1,0 +1,9 @@
+comandos con sus descripciones
+
+touch : permite craer archivos vacios y cambiar marcas de tiempo de archivos y carpetas 
+
+pico : se utiliza para editar archivos de texto
+
+passwd : permite cambiar la contraseña  del usuario que se pasa como argumento
+
+du :  se usa para estimar el uso de espacio en el disco duro de un archivo directorio o sistema de archivos

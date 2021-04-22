@@ -1,0 +1,19 @@
+comandos con sus respectivas descripciones
+
+cp : permite copiar ficheros y directorios
+
+mv : permite mover o renombrar archivos o directorios del sistema
+
+find : permite encontrar cualquier archivo en el sistema
+
+tail : imprime los ultimos n numeros o colas de una entrada
+
+uname : permite mostrar informacion del sistema operativo
+
+top : permite averiguar informacion del servidor como su estado,estado de carga  etc
+
+apt-get : es herramienta avanzada de empaquetado, permite gestionar paquetes,simplifica instalacion  y eliminacion de programas
+
+reboot : permite reiniciar el sistema
+
+poweroff : permite apagar el sistema

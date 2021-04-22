@@ -1,0 +1,22 @@
+CRON
+
+Permite ejecutar automaticamente comandos o Scripts a una hora o fecha especifica
+
+para poder utilizarlo se puede usar lo siguiente: 
+
+*ingresando al directorio etc donde tendremos lo siguiente y deberemos elegir
+ -cron.hourly
+ -cron.daily
+ -cron.weekly
+ -cron.monthly
+
+*modificando el archivo /etc/crontab
+
+
+VENTAJAS DE CRON
+
+permite hacer copias de seguridad en una hora o fecha especifica
+permite hacer actividades administrativas facilmente
+
+
+

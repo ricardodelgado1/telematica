@@ -1,0 +1,44 @@
+PASOS PUNTOS 8,9,10,11,12
+
+*PASOS  PUNTO 8
+
+nos vamos a la raiz con cd
+
+luego ejecutamos lo siguiente
+
+cp user105/ejercicio1/a/a1/comandos1.txt user105/ejercicio1/copia
+
+cp user105/ejercicio1/a/a2/comandos2.txt user105/ejercicio1/copia
+
+cp user105/ejercicio1/b/b1/comandos3.txt user105/ejercicio1/copia
+
+cp user105/ejercicio1/c/c1/comandos4.txt user105/ejercicio1/copia
+
+
+*PASOS PUNTO 9
+
+nos vamos a la raiz con cd luego ejecutamos
+
+mv user105/ejercicio1/a/a1 user105/ejercicio1/movido
+
+mv user105/ejercicio1/a/a2 user105/ejercicio1/movido
+
+
+*PASOS PUNTO 10
+
+nos vamos a la raiz con cd luego ejecutamos
+
+tar -cvzf user105/ejercicio1/todo/a.tar.gz user105/ejercicio1/a
+
+*PASOS PUNTO 11
+
+nos vamos al directorio raiz con cd y ejecutamos
+
+tar -cvzf user105/ejercicio1/todo/b.gz user105/ejercicio1/b
+
+
+*PASOS PUNTO 12
+
+nos vamos a la raiz que es home/user105 y ejecutamos
+
+tar -cvzf ejercicio1.tar.gz user105/ejercicio1
