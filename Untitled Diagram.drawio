@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2022-10-07T03:22:37.690Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36" version="20.4.0" etag="2dkjeO_bAEu-w-CB4bQV" type="github"><diagram id="PF3qJDxW927qOKtqpyPQ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-07T03:59:01.914Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36" etag="iR-FIS5YWwbTCLbPOgtx" version="20.4.0" type="github">
+  <diagram id="PF3qJDxW927qOKtqpyPQ" name="Page-1">
+    <mxGraphModel dx="871" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="P2Tl4Fqx6taukh3KYeF6-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="P2Tl4Fqx6taukh3KYeF6-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="120" y="190" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="P2Tl4Fqx6taukh3KYeF6-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="280" y="80" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="P2Tl4Fqx6taukh3KYeF6-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="260" y="190" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="P2Tl4Fqx6taukh3KYeF6-7" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;right=0;top=0;bottom=0;fillColor=none;routingCenterX=-0.5;" vertex="1" parent="1">
+          <mxGeometry x="440" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P2Tl4Fqx6taukh3KYeF6-8" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;right=0;top=0;bottom=0;fillColor=none;routingCenterX=-0.5;" vertex="1" parent="1">
+          <mxGeometry x="390" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="P2Tl4Fqx6taukh3KYeF6-9" value="baños" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="387" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P2Tl4Fqx6taukh3KYeF6-10" value="Área cocina" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="103" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P2Tl4Fqx6taukh3KYeF6-11" value="Área de trabajo" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="210" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P2Tl4Fqx6taukh3KYeF6-12" value="Sala de Juntas" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="145" y="215" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P2Tl4Fqx6taukh3KYeF6-13" value="Área de esparcimiento" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="125" y="99" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P2Tl4Fqx6taukh3KYeF6-21" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorUneven;dx=0.5;" vertex="1" parent="1">
+          <mxGeometry x="234" y="189" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="P2Tl4Fqx6taukh3KYeF6-22" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorUneven;dx=0.5;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="255" y="79.5" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="P2Tl4Fqx6taukh3KYeF6-24" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;aspect=fixed;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="390" y="132" width="26" height="27.63" as="geometry" />
+        </mxCell>
+        <mxCell id="P2Tl4Fqx6taukh3KYeF6-25" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;aspect=fixed;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="120" y="160" width="31.87" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
